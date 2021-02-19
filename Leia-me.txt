@@ -1,0 +1,5 @@
+Para utilização do Web-app são necessárias duas chaves de acesso:
+*Para o clima do local requerida pela OpenWeatherMap;
+*Para a localização do local no mapa requerida pelo Google Maps;
+
+OBS:Substitui as palavras key no arquivo arquivo .js para o clima e no .html para o maps. 
